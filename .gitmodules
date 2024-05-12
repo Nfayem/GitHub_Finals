@@ -1,0 +1,12 @@
+[submodule "Machine_Modelling"]
+	path = Machine_Modelling
+	url = https://github.com/Nfayem/Machine_Modelling.git
+[submodule "CRISP-DM_Titanic"]
+	path = CRISP-DM_Titanic
+	url = https://github.com/Nfayem/CRISP-DM_Titanic.git
+[submodule "Sakila_DB"]
+	path = Sakila_DB
+	url = https://github.com/Nfayem/Sakila_DB.git
+[submodule "git-and-github-final-assignment-Nfayem"]
+	path = git-and-github-final-assignment-Nfayem
+	url = https://github.com/Azubi-Africa/git-and-github-final-assignment-Nfayem.git
